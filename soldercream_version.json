@@ -1,7 +1,7 @@
 {
   "app": "SolderCreamManager",
-  "version": "1.5.2",
-  "download_url": "https://github.com/kdj0624/AutoManager-Updates/releases/download/soldercream-v1.5.2-test2/SolderCreamManager.1.5.2.TEST.zip",
+  "version": "1.5.3",
+  "download_url": "1.5.3 테스트 ZIP 주소",
   "mandatory": false,
-  "message": "자동업데이트 시스템 적용"
+  "message": "1.5.3 자동업데이트 테스트"
 }
