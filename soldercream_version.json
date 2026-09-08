@@ -1,7 +1,7 @@
 {
   "app": "SolderCreamManager",
-  "version": "1.5.7v",
-  "manifest_url": "https://github.com/kdj0624/AutoManager-Updates/releases/download/soldercream-v1.5.7/SolderCreamManager.1.5.7v.manifest.json",
+  "version": "1.5.8v",
+  "manifest_url": "https://github.com/kdj0624/AutoManager-Updates/releases/download/soldercream-v1.5.8/SolderCreamManager.1.5.8v.manifest.json",
   "mandatory": false,
   "message": "업데이트"
 }
