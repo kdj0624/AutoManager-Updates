@@ -1,6 +1,6 @@
 {
   "app": "SolderCreamManager",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "mandatory": false,
   "message": "자동업데이트 시스템 최초 테스트"
 }
