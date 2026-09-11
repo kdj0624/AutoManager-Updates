@@ -1,7 +1,7 @@
 {
   "app": "ProductMatchManager",
-  "version": "1.0.2",
-  "manifest_url": "https://raw.githubusercontent.com/kdj0624/AutoManager-Updates/refs/heads/main/productmatch/manifest.json",
-  "message": "검사 화면 개선 및 버그 수정",
+  "version": "1.0.3",
+  "download_url": "https://github.com/kdj0624/AutoManager-Updates/releases/download/productmatch-v1.0.3/full.zip",
+  "message": "ProductMatchManager v1.0.3 업데이트",
   "mandatory": false
 }
