@@ -1,0 +1,14 @@
+{
+  "app": "ProductMatchManager",
+  "version": "1.0.2",
+  "from_version": "1.0.1",
+
+  "patch_url": "",
+  "patch_sha256": "",
+
+  "full_url": "",
+  "full_sha256": "",
+
+  "changed_files": [],
+  "delete_files": []
+}
