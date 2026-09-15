@@ -1,7 +1,7 @@
 {
   "app": "ProductMatchManager",
-  "version": "1.0.5",
-  "manifest_url": "https://github.com/kdj0624/AutoManager-Updates/releases/download/productmatch-v1.0.5/ProductMatchManager.1.0.5.manifest.json",
+  "version": "1.0.6",
+  "manifest_url": "https://github.com/kdj0624/AutoManager-Updates/releases/download/productmatch-v1.0.6/ProductMatchManager.1.0.6.manifest.json",
   "mandatory": false,
   "message": "업데이트"
 }
