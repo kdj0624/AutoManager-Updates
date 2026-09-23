@@ -1,0 +1,7 @@
+{
+  "app": "MetalMaskManager",
+  "version": "0.5.2",
+  "manifest_url": "https://github.com/kdj0624/AutoManager-Updates/releases/download/metalmask-v0.5.2/MetalMaskManager.0.5.2.manifest.json",
+  "mandatory": false,
+  "message": "업데이트"
+}
